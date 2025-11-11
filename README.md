@@ -2,5 +2,6 @@ This is my first project. It analyzes insurance cost data from a csv file and ca
 
 
 
-To run it all you should have to do is double click the html file in the folder and view the code as well as the outputs.
+To run it you need to click on branch and view the gitpage.
+
 
