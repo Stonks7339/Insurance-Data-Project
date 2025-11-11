@@ -2,7 +2,8 @@ This is my first project. It analyzes insurance cost data from a csv file and ca
 
 
 
-To run it you need to click on the gitpage deployment.
+To run it you need to click on the github-page deployment and click the link.
+
 
 
 
